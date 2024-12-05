@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9c9db0ed.css",
-    "main.js": "/portfolio/static/js/main.b2099488.js",
+    "main.css": "/portfolio/static/css/main.4df0a18b.css",
+    "main.js": "/portfolio/static/js/main.5a69629b.js",
+    "static/media/eazzidoc.png": "/portfolio/static/media/eazzidoc.9f2967236915dba695e9.png",
     "static/media/contactImg.png": "/portfolio/static/media/contactImg.8f6c5cbeac8bcb6b3f2c.png",
     "static/media/glance.png": "/portfolio/static/media/glance.74d87e7c9b5e8e62c8e9.png",
     "static/media/todo.png": "/portfolio/static/media/todo.ba8cb3c6c62acef5e67f.png",
+    "static/media/opportunity-board.png": "/portfolio/static/media/opportunity-board.e3a12bdca1c75d3765a0.png",
     "static/media/Official_photo.jpeg": "/portfolio/static/media/Official_photo.388771afa14dc69019b0.jpeg",
+    "static/media/glucoai.png": "/portfolio/static/media/glucoai.40f5d8e8bc4bb77ab67b.png",
     "static/media/chathub.png": "/portfolio/static/media/chathub.a07650a5451e6e1123ae.png",
     "index.html": "/portfolio/index.html",
-    "main.9c9db0ed.css.map": "/portfolio/static/css/main.9c9db0ed.css.map",
-    "main.b2099488.js.map": "/portfolio/static/js/main.b2099488.js.map"
+    "main.4df0a18b.css.map": "/portfolio/static/css/main.4df0a18b.css.map",
+    "main.5a69629b.js.map": "/portfolio/static/js/main.5a69629b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c9db0ed.css",
-    "static/js/main.b2099488.js"
+    "static/css/main.4df0a18b.css",
+    "static/js/main.5a69629b.js"
   ]
 }
