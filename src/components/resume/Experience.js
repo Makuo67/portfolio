@@ -16,12 +16,29 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Co-Founder/Chief Financial Officer "
-            subTitle="December - (Jan 2023 - present)"
-            result="Rwanda"
-            des="Spearheaded financial operations, implementing data-driven budgeting processes that reduced costs by 20% and increased profitability by 15% YoY.
-
+            title="Data Engineer Intern"
+            subTitle="IntelHP (March 2024 - July 2024)"
+            result="Remote"
+            des="Trained and deployed machine learning models on AWS servers to analyze real-time data streams.
+                  Executed rigorous integration testing to validate data from EHR systems and wearable devices through AWS platforms.
+                  Set up and maintained data ingestion pipelines via AWS Glue and IoT Hubs.
             "
+          />
+          <ResumeCard
+            title="Junior Software Developer"
+            subTitle=" BAG (August 2023 - December 2023)"
+            result="Rwanda"
+            des="Enhanced the platform's user interface by updating and redesigning frontend components using React.
+              Developed and integrated a task scheduling feature, allowing users to efficiently manage their activities.
+              Utilized JavaScript and Node.js to implement new functionalities and optimize existing workflows, improving overall user experience and platform performance."
+          />
+          <ResumeCard
+            title="Business Development/Investor Relations Intern"
+            subTitle="Supivaa Advisory Group (May 2024 - August 2024)"
+            result="Remote"
+            des="Conducted extensive data analysis across seven countries to advise the establishment of a $50 million pharmaceutical plant; interviewed key opinion leaders and regulatory authorities.
+                  Assisted clients in raising over $10 million in funding rounds and expanding client exports to the European Union.
+                  Crafted portfolios for investor engagement and impact investment."
           />
           <ResumeCard
             title="Deal Sourcing Intern"
@@ -30,7 +47,7 @@ const Experience = () => {
             des="Researched and reported eleven start-ups for potential investment opportunities"
           />
           <ResumeCard
-            title="Software Engineer"
+            title="Technical Cunsulting Intern"
             subTitle="International Training Institute for Skills Development - (May 2023 - Present)"
             result="Rwanda"
             des="Currently manages the website and software architecture of the institute. Created a functional database and email administration to synchronize communication in the company"

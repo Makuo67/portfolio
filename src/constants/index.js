@@ -5,6 +5,7 @@ import { FaGit } from "react-icons/fa";
 import { FaFigma } from "react-icons/fa";
 import { FaJs } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
+import { FaAws } from "react-icons/fa";
 // import postman icons from "react
 
 import {
@@ -93,6 +94,12 @@ export const skillsData = [
     title: "React",
     percentage: "70%",
     icon: <FaReact className="text-5xl text-designColor" />,
+  },
+  {
+    _id: 2024,
+    title: "AWS",
+    percentage: "60%",
+    icon: <FaAws className="text-5xl text-designColor" />,
   },
   {
     _id: 2008,

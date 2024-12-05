@@ -1,5 +1,39 @@
-import { projectOne, projectThree, projectTwo } from "../../assets/index";
+import {
+  opportunityboard,
+  projectOne,
+  projectThree,
+  projectTwo,
+  eazzidoc,
+  glucoai,
+  opportunityboard,
+} from "../../assets/index";
 export const projectList = [
+  {
+    _id: 900,
+    title: "EazziDoc Telemedicine Platform",
+    img: eazzidoc,
+    category: "ML Powered Web App",
+    date: "November 2024",
+    github_link: "https://github.com/Makuo67/iCatch",
+    description:
+      "The Eazzi Doc Telemedicine Dashboard web app is designed to enhance healthcare accessibility across underserved regions by providing a platform where patients and healthcare providers can engage in remote medical consultations and services. This user-friendly dashboard facilitates online appointments, medical consultations, and health monitoring, and AI diagnosis aiming to bridge the healthcare service gap in regions with geographical barriers, limited medical personnel, and infrastructure constraints.",
+    tech: [
+      "Densenet201 model",
+      "Groq Llama3.1b versatile model",
+      "Javascript, Supabase API, FASTAPI",
+    ],
+  },
+  {
+    _id: 901,
+    title: "GlucoAI",
+    img: glucoai,
+    category: "Web Application",
+    date: "April 2024",
+    github_link: "https://github.com/Makuo67/GlucoAI",
+    description:
+      "An advanced machine learning model that predicts your risk of developing diabetes based on comprehensive health data. ",
+    tech: ["Reactjs", "CNN", "FastAPI"],
+  },
   {
     _id: 999,
     title: "ChatHub",
@@ -25,6 +59,7 @@ export const projectList = [
 
   {
     _id: 1001,
+    img: opportunityboard,
     title: "ALU Opprotunities Board",
     category: "Fullstack development",
     date: "Mar - Apr 2023",
